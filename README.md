@@ -7,10 +7,11 @@
 </p>
 
 ---
-<p align="center">
-  <video src="https://github.com/BigBodyCobain/Shadowbroker/raw/main/assets/video.mp4" width="100%" autoplay loop muted playsinline>
-  </video>
-</p>
+
+https://github.com/user-attachments/assets/299fbc0b-f209-446b-854d-9de4f6ae880b
+
+
+
 **ShadowBroker** is a real-time, multi-domain OSINT dashboard that aggregates live data from dozens of open-source intelligence feeds and renders them on a unified dark-ops map interface. It tracks aircraft, ships, satellites, earthquakes, conflict zones, CCTV networks, GPS jamming, and breaking geopolitical events — all updating in real time.
 
 Built with **Next.js**, **MapLibre GL**, **FastAPI**, and **Python**, it's designed for analysts, researchers, and enthusiasts who want a single-pane-of-glass view of global activity.
@@ -25,6 +26,8 @@ Built with **Next.js**, **MapLibre GL**, **FastAPI**, and **Python**, it's desig
 * Watch naval traffic worldwide
 * Detect GPS jamming zones
 * Follow earthquakes and disasters in real time
+
+![zuck](https://github.com/user-attachments/assets/b3dd60d5-ca5b-412b-9806-b742557e15d6)
 
 ---
 
@@ -73,6 +76,8 @@ Do not append a trailing `.` to that command; Compose treats it as a service nam
 * **Orbital Tracking** — Real-time satellite positions via CelesTrak TLE data + SGP4 propagation (2,000+ active satellites, no API key required)
 * **Mission-Type Classification** — Color-coded by mission: military recon (red), SAR (cyan), SIGINT (white), navigation (blue), early warning (magenta), commercial imaging (green), space station (gold)
 
+![Gaza](https://github.com/user-attachments/assets/b84d099e-9bc7-41b7-b860-a91c38c0b765)
+
 ### 🌍 Geopolitics & Conflict
 
 * **Global Incidents** — GDELT-powered conflict event aggregation (last 8 hours, ~1,000 events)
@@ -82,6 +87,9 @@ Do not append a trailing `.` to that command; Compose treats it as a service nam
   * Country profile (population, capital, languages, currencies, area)
   * Head of state & government type (Wikidata SPARQL)
   * Local Wikipedia summary with thumbnail
+    
+  ![Iran](https://github.com/user-attachments/assets/38e47c96-d371-4619-b03a-de68f0cc88e6)
+
 
 ### 🛰️ Satellite Imagery
 
